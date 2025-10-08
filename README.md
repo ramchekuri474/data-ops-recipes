@@ -22,7 +22,7 @@ Whether it's designing ETL workflows, handling big data with Spark, writing effi
 |---------------|------------------|
 | Programming   | Python, SQL, Scala |
 | Data Processing | Apache Spark (PySpark & Scala), Pandas |
-| Cloud & DevOps | Azure Data Factory, Azure Synapse, Azure Storage, ARM/Bicep |
+| Cloud & DevOps | Azure Data Factory, Azure Synapse, Azure Storage, ARM/Bicep ,Logic App,Function App|
 | Databases     | Azure SQL Database, PostgreSQL, Delta Lake |
 | Orchestration | ADF Pipelines, Notebooks, Automation Scripts |
 
