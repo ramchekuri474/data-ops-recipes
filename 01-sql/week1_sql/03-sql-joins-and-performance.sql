@@ -38,7 +38,7 @@ INSERT INTO employees (emp_id, name, manager_id) VALUES
   (1, 'Alice', NULL),
   (2, 'Bob',   1),
   (3, 'Carol', 1),
-  (4, 'Dan',   2);        -- Dan has no sales
+  (4, 'Dan',   2);        -- Dan has no sales, Bob i
 
 INSERT INTO sales (sale_id, emp_id, amount) VALUES
   (101, 1, 100.00),
